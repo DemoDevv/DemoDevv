@@ -26,8 +26,13 @@ j'utilise **Pycharm**, **intellij** et **Visual Sudio** principalement.
 
 ## Mes projets en ce moment 🤔
 
-Je travail sur mon projet **Frozelia** avec 2 amis, qui est un serveur minecraft.
+![activity](https://github-readme-stats.vercel.app/api?username=DemoDevv&show_icons=tru)
+
+## Github ⚙️
+
+https://github-readme-stats.vercel.app/api?username=DemoDevv&show_icons=tru
 
 ## Me contacter 📫
 
-Mon discord : ***Demo#2423***
+![Discord Demo#2423](https://img.shields.io/badge/Discord-ajouter-red)
+[![Github abonnés](https://img.shields.io/badge/Github-abonn%C3%A9s-lightgrey)](https://github.com/DemoDevv)
