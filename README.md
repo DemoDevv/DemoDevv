@@ -26,11 +26,11 @@ j'utilise **Pycharm**, **intellij** et **Visual Sudio** principalement.
 
 ## Mes projets en ce moment 🤔
 
-![activity](https://github-readme-stats.vercel.app/api?username=DemoDevv&show_icons=tru)
+Je travail sur **Frozelia** un serveur moddé pvp-faction minecraft.
 
 ## Github ⚙️
 
-https://github-readme-stats.vercel.app/api?username=DemoDevv&show_icons=tru
+![activity](https://github-readme-stats.vercel.app/api?username=DemoDevv&show_icons=tru)
 
 ## Me contacter 📫
 
