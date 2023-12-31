@@ -32,18 +32,19 @@ A **french developer & Student** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I am currently a student.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Web Development. 
-- 🤔 My interest is to develop a lot of useful stuff around the web. Computer security is also something I might be interested in later.
-- 💼 I am in the general baccalaureate.
+- 👨🏽‍💻 I'm currently a work-study student.
+- 🌱 I'm a full-stack developer with a keen interest in cyber security.
+- 🤔 I'm working on personal web application projects for future large-scale use (if possible) and I'm employed by La Poste's technical department with a large project for my work-study placement.
+- 💼 I'm in my second year of BUT informatique.
 - 💬 Ask me about anything if you have any questions.
-- 📫 Email me at [demodevv.pro@gmail.com](mailto:demodevv.pro@gmail.com).
+- 📫 Email me at [mathieulebras@icloud.com](mailto:mathieulebras@icloud.com).
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info. -->
 
 
 **Languages and Tools:**  
 
 
+<!--
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -59,6 +60,7 @@ A **french developer & Student** 🚀.
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=DemoDevv&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DemoDevv's GitHub Stats">
 
