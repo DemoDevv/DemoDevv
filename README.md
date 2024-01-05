@@ -1,20 +1,4 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
-
-<!--
-**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 title="hehehe"> Hey 👋, I'm DemoDevv!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Mathieu !</h3>
 
 <a href="https://github.com/DemoDevv">
   <img align="left" alt="My profil" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -62,5 +46,5 @@ A **french developer & Student** 🚀.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=DemoDevv&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DemoDevv's GitHub Stats">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=DemoDevv&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DemoDevv's GitHub Stats"> -->
 
