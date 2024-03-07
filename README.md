@@ -1,5 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Mathieu !</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8538F7&random=false&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Mathieu+!;A+french+developer+%26+Student+%F0%9F%9A%80.)](https://git.io/typing-svg)  
 <a href="https://github.com/DemoDevv">
   <img align="left" alt="My profil" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -8,11 +7,8 @@
 
 
 <br />
-<br />
 
-A **french developer & Student** 🚀.
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
