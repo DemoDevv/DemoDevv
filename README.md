@@ -15,7 +15,7 @@
 - 👨🏽‍💻 I'm currently a work-study student.
 - 🌱 I'm a full-stack developer with a keen interest in cyber security.
 - 🤔 I'm working on personal web application projects for future large-scale use (if possible) and I'm employed by La Poste's technical department with a large project for my work-study placement.
-- 💼 I'm in my second year of BUT informatique.
+- 💼 I'm in my last year of BUT informatique.
 - 💬 Ask me about anything if you have any questions.
 - 📫 Email me at [mathieulebras@icloud.com](mailto:mathieulebras@icloud.com).
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info. -->
